@@ -8,8 +8,7 @@ An incremental game based on the game Old School Runescape mixed with IdleKai Fl
 
 ## Play game
 
-__________________________
-
+https://idlekai.com/
 
 ## Disclaimer
 
