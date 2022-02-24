@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/daanheskes/OSRS-Idle-Clicker/pulls)
 [![License](https://img.shields.io/github/license/daanheskes/OSRS-Idle-Clicker.svg)](https://github.com/daanheskes/OSRS-Idle-Clicker/blob/master/LICENSE)
 
-An incremental game based on the game Old School Runescape mixed with IdleKai Flair!
+An idle rpg game inspired by Old School Runescape and born into the Kaimetaverse!
 
 ## Play game
 
